@@ -37,7 +37,7 @@ Las cuentas no registradas se crean con saldo cero al registrar una operación.
 
 ## Estructura
 | Estructura | Operación  |
-|---|---|---|
+|---|---|
 | Lista enlazada simple | Agregar al final con referencia a cola | 
 | Lista doble | Agregar al final | 
 | Cola FIFO | Encolar/desencolar | 
@@ -51,4 +51,3 @@ Las cuentas no registradas se crean con saldo cero al registrar una operación.
 - `Estructuras`: estructuras implementadas manualmente.
 - `Servicios`: reglas de negocio y coordinación.
 - `Interfaz`: formulario principal.
-
